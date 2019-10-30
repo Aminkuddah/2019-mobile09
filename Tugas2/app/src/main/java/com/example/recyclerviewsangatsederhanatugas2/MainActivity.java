@@ -37,8 +37,6 @@ public class MainActivity extends AppCompatActivity {
                 R.drawable.joker12));
         SuperHeroAdapter superHeroAdapter = new SuperHeroAdapter(listSuperHero);
         rvSuperHero.setAdapter(superHeroAdapter);
-//        rvSuperHero.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
-        rvSuperHero.setLayoutManager(new GridLayoutManager(this, 2));
-
+        rvSuperHero.setLayoutManager(new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL, false));
     }
 }

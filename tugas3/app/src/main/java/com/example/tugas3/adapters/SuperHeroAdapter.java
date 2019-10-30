@@ -1,4 +1,4 @@
-package com.example.recyclerviewsangatsederhanatugas2.adapters;
+package com.example.tugas3.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,8 +10,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.recyclerviewsangatsederhanatugas2.R;
-import com.example.recyclerviewsangatsederhanatugas2.models.SuperHero;
+import com.example.tugas3.R;
+import com.example.tugas3.models.SuperHero;
 
 import java.util.List;
 

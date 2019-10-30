@@ -1,4 +1,4 @@
-package com.example.recyclerviewsangatsederhanatugas2.models;
+package com.example.tugas3.models;
 
 public class SuperHero {
 //    public int gambarHero;
